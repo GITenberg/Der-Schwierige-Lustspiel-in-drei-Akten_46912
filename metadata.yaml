@@ -1,4 +1,8 @@
 _repo: Der-Schwierige-Lustspiel-in-drei-Akten_46912
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46912-h/images/cover-derschw.jpg
 creator:
   author:
     agent_name: Hofmannsthal, Hugo von
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '33600'
     url: http://www.gutenberg.org/2009/agents/33600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46912#Der-Schwierige-Lustspiel-in-drei-Akten
 gutenberg_issued: '2014-09-20'
 gutenberg_type: Text
 identifiers:
